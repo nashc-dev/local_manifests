@@ -15,4 +15,5 @@
 
    <!-- Hardware Components -->
    <project path="hardware/oplus" name="android_hardware_oplus" revision="lineage-19.1" remote="nashc-dev" />
+   <project path="hardware/mediatek" name="android_hardware_mediatek" revision="lineage-19.1" remote="nashc-dev" />
 </manifest>
